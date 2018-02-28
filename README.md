@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Learning...
+
+Interesting, Method, Hard
